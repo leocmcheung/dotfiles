@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = leocmcheung@gmail.com
+	name = Leo Cheung
